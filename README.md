@@ -1,7 +1,5 @@
 # 🎃 ¡Bienvenidos a Fundamentos de Desarrollo Web!
 
-![Introducción al curso](assets/introduccion.png)
-
 ¡Hola! Qué genial que estés aquí. En este curso introductorio vas a aprender a crear tu propia página web desde cero usando HTML y CSS. No vas a tener que instalar absolutamente nada aburrido ni complicado; todo lo haremos directamente en tu navegador usando **CodePen**.
 
 A lo largo de estos 10 videos cortos, iremos construyendo juntos una página web personal. ¡Sigue el paso a paso y diviértete programando!
