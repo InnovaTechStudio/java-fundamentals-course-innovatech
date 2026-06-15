@@ -1,14 +1,12 @@
 # 🎃 ¡Bienvenidos a Fundamentos de Java y POO!
 
-![Introducción al curso](assets/introduccion.png)
-
 ¡Hola! Qué genial que estés aquí. En este curso introductorio vas a aprender a programar desde cero usando **Java**. No vas a tener que instalar absolutamente nada aburrido ni complicado; todo lo haremos directamente en tu navegador usando **JDoodle**.
 
 A lo largo de estos 10 videos cortos, iremos construyendo paso a paso tu propio personaje de videojuego mientras aprendemos los superpoderes de la Programación Orientada a Objetos (POO). ¡Sigue el paso a paso y diviértete programando!
 
 ---
 
-[cite_start]🦇 *Proyecto desarrollado para el curso de 1ASI0729 Desarrollo de Aplicaciones Open Source - Ingeniería de Software - UPC (Periodo 202610)*[cite: 321, 504].
+🦇 *Proyecto desarrollado para el curso de 1ASI0729 Desarrollo de Aplicaciones Open Source - Ingeniería de Software - UPC (Periodo 202610)*.
 **Equipo InnovaTech:**
 * Lopez Monroy, Rodrigo Alfredo (U202421866)
 * 
