@@ -1,12 +1,14 @@
 # 📝 Archivos de Inicio (Starter Files)
 
-Esta carpeta contiene todos los códigos iniciales e incompletos de nuestro curso. Estos enlaces generan una copia limpia de CodePen para que los estudiantes puedan escribir su código y resolver los ejercicios en cada lección de forma segura.
+Esta carpeta contiene todos los códigos iniciales e incompletos de nuestro curso. Estos enlaces te llevarán directamente a JDoodle, con un entorno limpio para que puedas escribir tu código y resolver las misiones de cada lección de forma segura.
 
-* **Video 3:** [Etiquetas HTML básicas](https://codepen.io/editor/pen?template=019ecc8f-ff51-7c46-b0b9-c4602d0368c7)
-* **Video 4:** [Listas, enlaces e imágenes](https://codepen.io/editor/pen?template=019ecc91-cc08-7c77-b9ac-9774e588aac6)
-* **Video 5:** [CSS: selectores, colores y fuentes](https://codepen.io/editor/pen?template=019ecc92-fcec-7c8b-aa07-ea48d1c8d271)
-* **Video 6:** [Tarjetas, bordes y espacios](https://codepen.io/editor/pen?template=019ecc94-78fa-7cb0-8f8f-4c323ae47eca)
-* **Video 7:** [Centrar y ordenar contenido](https://codepen.io/editor/pen?template=019ecc97-cef1-7cfa-a8f3-312f13940e1e)
-* **Video 8:** [Botones y efecto hover](https://codepen.io/editor/pen?template=019ecc98-623c-7d09-8911-d0fd2ca59c90)
-* **Video 9:** [Armamos la página final completa](https://codepen.io/editor/pen?template=019ecc99-2f5b-7d13-8966-ea96702e97c9)
-* **Video 10:** [Errores comunes y próximos pasos](https://codepen.io/editor/pen?template=019ecc9b-1623-7d47-8026-5ce13068c725)
+* **Video 1:** [Plantilla - ¿Qué es programar y qué es Java?](https://www.jdoodle.com/ia/1U9Q)
+* **Video 2:** [Plantilla - Variables: la ficha de tu personaje](https://www.jdoodle.com/ia/1U9R)
+* **Video 3:** [Plantilla - Decisiones con if/else](https://www.jdoodle.com/ia/1U9T)
+* **Video 4:** [Plantilla - Métodos: botones de acción](https://www.jdoodle.com/ia/1U9V)
+* **Video 5:** [Plantilla - Clase Personaje: el molde](https://www.jdoodle.com/ia/1U9X)
+* **Video 6:** [Plantilla - Objetos y constructor](https://www.jdoodle.com/ia/1U9Z)
+* **Video 7:** [Plantilla - Encapsulamiento](https://www.jdoodle.com/ia/1Ua1)
+* **Video 8:** [Plantilla - Herencia: Mago o Guerrero](https://www.jdoodle.com/ia/1Ua3)
+* **Video 9:** [Plantilla - Polimorfismo simple](https://www.jdoodle.com/ia/1Ua5)
+* **Video 10:** [Plantilla - Mini proyecto final](https://www.jdoodle.com/ia/1Ua7)
