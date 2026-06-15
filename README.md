@@ -1,37 +1,81 @@
-# 🚀 Fundamentos de Desarrollo Web para Secundaria
+# 🚀 ¡Bienvenidos a Fundamentos de Desarrollo Web!
 
-Bienvenido al repositorio oficial de nuestro curso introductorio de desarrollo web. Este proyecto está diseñado específicamente para estudiantes de secundaria (12 a 15 años) que desean dar sus primeros pasos en la creación de páginas web, aprendiendo HTML y CSS desde cero.
+![Introducción al curso](assets/introduccion.png)
 
-## 🎯 Objetivo del Curso
-El objetivo es que al finalizar esta serie de videos cortos (aprox. 1 hora en total), cada estudiante logre construir y personalizar su propia página web de perfil usando únicamente su navegador[cite: 4, 15]. [cite_start]¡Cero instalaciones complejas!
+¡Hola! Qué genial que estés aquí. [cite_start]En este curso introductorio vas a aprender a crear tu propia página web desde cero usando HTML y CSS[cite: 177, 184]. [cite_start]No vas a tener que instalar absolutamente nada aburrido ni complicado; todo lo haremos directamente en tu navegador usando **CodePen**[cite: 179, 189].
 
-## 🛠 Herramientas Utilizadas
-Para este curso, todo el código se escribe y ejecuta en la nube utilizando editores en línea gratuitos. Recomendamos usar:
-* [CodePen](https://codepen.io/)
-* [JSFiddle](https://jsfiddle.net/)
-* [Replit](https://replit.com/)
-
-## 📂 Estructura de este Repositorio
-
-Este repositorio contiene todos los recursos necesarios para seguir el curso:
-
-* **`/starter-files`**: Contiene el código inicial para cada lección. Úsalo como punto de partida para los ejercicios.
-* **`/completed-examples`**: Contiene la solución final de cada lección. Úsalo para revisar tu código si te quedas atascado.
-* **`/scripts`**: Carpeta destinada a lógicas avanzadas. (Nota: Sin uso en este curso, ya que nos enfocamos 100% en HTML y CSS).
-
-## 🎓 Sobre la elaboración
-Este proyecto ha sido desarrollado como trabajo complementario de responsabilidad social por estudiantes de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC).
-
-* **Curso:** 1ASI0730 Aplicaciones Web
-* **Periodo:** 202610
-* **Equipo:** InnovaTech Studio
-
-**Integrantes:**
-1. Lopez Monroy, Rodrigo Alfredo
-2. Luis Miranda, Diego Andres
-3. Mamani Vilca, Alan Jaivi
-4. Pillaca Gonzales, Andy Saúl
-5. Sanchez Cuadrado, Juan Antonio
+[cite_start]A lo largo de estos 10 videos cortos, iremos construyendo juntos una página web personal[cite: 186, 189]. ¡Sigue el paso a paso y diviértete programando!
 
 ---
-*Hecho con 💻 y ☕ por futuros ingenieros de software.*
+
+## 🎬 Lecciones del Curso
+
+### Video 1: ¿Qué es una página web?
+![Miniatura Video 1](assets/miniatura-video-1.png)
+[cite_start]En este video descubriremos cómo funciona el internet y qué piezas construyen las páginas que visitas todos los días[cite: 199, 201].
+* 📺 **Ver video:** [Inserta el enlace de YouTube aquí]
+
+### Video 2: Abrimos CodePen y hacemos la primera mini página
+![Miniatura Video 2](assets/miniatura-video-2.png)
+¡Es hora de poner las manos en el teclado! [cite_start]Conoceremos nuestra herramienta de trabajo y escribiremos nuestras primeras líneas[cite: 208, 209].
+* 📺 **Ver video:** [Inserta el enlace de YouTube aquí]
+* 🛠️ **Herramienta:** [Abre CodePen y prepárate para crear](https://codepen.io/)
+
+### Video 3: Etiquetas HTML básicas
+![Miniatura Video 3](assets/miniatura-video-3.png)
+[cite_start]Empezamos a darle forma a nuestro sitio usando títulos, subtítulos y párrafos[cite: 216, 217].
+* 📺 **Ver video:** [Inserta el enlace de YouTube aquí]
+* 📝 **Plantilla para practicar:** [Abre la plantilla inicial](https://codepen.io/editor/pen?template=019ecc8f-ff51-7c46-b0b9-c4602d0368c7)
+* ✅ **Estado completado:** [Mira el código resuelto](https://codepen.io/editor/Rodrigo-L-pez-the-encoder/pen/019ecc91-8fe7-724d-8543-108068c78509)
+
+### Video 4: Listas, enlaces e imágenes
+![Miniatura Video 4](assets/miniatura-video-4.png)
+[cite_start]Vamos a nutrir nuestra web agregando nuestros gustos en forma de lista, imágenes geniales y links a otras páginas[cite: 224, 225].
+* 📺 **Ver video:** [Inserta el enlace de YouTube aquí]
+* 📝 **Plantilla para practicar:** [Abre la plantilla inicial](https://codepen.io/editor/pen?template=019ecc91-cc08-7c77-b9ac-9774e588aac6)
+* ✅ **Estado completado:** [Mira el código resuelto](https://codepen.io/editor/Rodrigo-L-pez-the-encoder/pen/019ecc92-4354-7601-8759-80996b3e9106)
+
+### Video 5: CSS: selectores, colores y fuentes
+![Miniatura Video 5](assets/miniatura-video-5.png)
+Llegó el momento de pintar nuestra página. [cite_start]Aprenderemos cómo usar CSS para cambiar colores y tipos de letra[cite: 232, 233].
+* 📺 **Ver video:** [Inserta el enlace de YouTube aquí]
+* 📝 **Plantilla para practicar:** [Abre la plantilla inicial](https://codepen.io/editor/pen?template=019ecc92-fcec-7c8b-aa07-ea48d1c8d271)
+* ✅ **Estado completado:** [Mira el código resuelto](https://codepen.io/editor/Rodrigo-L-pez-the-encoder/pen/019ecc94-1ea0-76bc-8947-3c4b8dd1ad6e)
+
+### Video 6: Tarjetas, bordes y espacios
+![Miniatura Video 6](assets/miniatura-video-6.png)
+[cite_start]Crearemos "tarjetas" visuales bonitas usando bordes redondeados y espacios para ordenar nuestra información[cite: 240, 241].
+* 📺 **Ver video:** [Inserta el enlace de YouTube aquí]
+* 📝 **Plantilla para practicar:** [Abre la plantilla inicial](https://codepen.io/editor/pen?template=019ecc94-78fa-7cb0-8f8f-4c323ae47eca)
+* ✅ **Estado completado:** [Mira el código resuelto](https://codepen.io/editor/Rodrigo-L-pez-the-encoder/pen/019ecc95-217c-76cf-9252-5be207017102)
+
+### Video 7: Centrar y ordenar contenido
+![Miniatura Video 7](assets/miniatura-video-7.png)
+¡Nuestra página necesita un poco de orden! [cite_start]Haremos que todo se vea limpio y centrado en la pantalla[cite: 249, 250].
+* 📺 **Ver video:** [Inserta el enlace de YouTube aquí]
+* 📝 **Plantilla para practicar:** [Abre la plantilla inicial](https://codepen.io/editor/pen?template=019ecc97-cef1-7cfa-a8f3-312f13940e1e)
+* ✅ **Estado completado:** [Mira el código resuelto](https://codepen.io/editor/Rodrigo-L-pez-the-encoder/pen/019ecc98-243f-742e-bb07-35d0563f641c)
+
+### Video 8: Botones y efecto hover
+![Miniatura Video 8](assets/miniatura-video-8.png)
+[cite_start]Transformaremos un enlace aburrido en un botón interactivo que cambia de color cuando pasas el mouse por encima[cite: 258, 259].
+* 📺 **Ver video:** [Inserta el enlace de YouTube aquí]
+* 📝 **Plantilla para practicar:** [Abre la plantilla inicial](https://codepen.io/editor/pen?template=019ecc98-623c-7d09-8911-d0fd2ca59c90)
+* ✅ **Estado completado:** [Mira el código resuelto](https://codepen.io/editor/Rodrigo-L-pez-the-encoder/pen/019ecc98-e5a6-709b-b1a3-1c04cd5360df)
+
+### Video 9: Armamos la página final completa
+![Miniatura Video 9](assets/miniatura-video-9.png)
+Unimos todas las piezas. [cite_start]Es tu turno de personalizar todo lo que construimos con tu propia información y gustos[cite: 267, 268].
+* 📺 **Ver video:** [Inserta el enlace de YouTube aquí]
+* 📝 **Plantilla para practicar:** [Abre la plantilla inicial](https://codepen.io/editor/pen?template=019ecc99-2f5b-7d13-8966-ea96702e97c9)
+* ✅ **Estado completado:** [Mira el código resuelto](https://codepen.io/editor/Rodrigo-L-pez-the-encoder/pen/019ecc9a-2d43-779f-b234-05310437cd8a)
+
+### Video 10: Errores comunes y próximos pasos
+![Miniatura Video 10](assets/miniatura-video-10.png)
+¡Conviértete en un detective de código! [cite_start]Aprenderemos a encontrar fallos, solucionarlos y te daremos consejos para seguir aprendiendo[cite: 275, 276].
+* 📺 **Ver video:** [Inserta el enlace de YouTube aquí]
+* 📝 **Plantilla para practicar:** [Abre la plantilla inicial](https://codepen.io/editor/pen?template=019ecc9b-1623-7d47-8026-5ce13068c725)
+* ✅ **Estado completado:** [Mira el código resuelto](https://codepen.io/editor/Rodrigo-L-pez-the-encoder/pen/019ecc9b-cd56-73bd-93e2-b88bf15403ec)
+
+---
+[cite_start]*Proyecto desarrollado por la Carrera de Ingeniería de Software - UPC (Periodo 202610)* [cite: 138-139].
