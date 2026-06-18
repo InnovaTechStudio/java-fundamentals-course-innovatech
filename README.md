@@ -10,7 +10,7 @@ A lo largo de estos 10 videos cortos, iremos construyendo paso a paso tu propio 
 **Equipo InnovaTech:**
 * Lopez Monroy, Rodrigo Alfredo (U202421866)
 * Luis Miranda, Diego Andres (U20241D185)
-* 
+* Mamani Vilca, Alan Jaivi (U20241E299)
 * 
 * 
   
