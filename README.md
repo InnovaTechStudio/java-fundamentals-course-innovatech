@@ -9,7 +9,7 @@ A lo largo de estos 10 videos cortos, iremos construyendo paso a paso tu propio 
 🦇 *Proyecto desarrollado para el curso de 1ASI0729 Desarrollo de Aplicaciones Open Source - Ingeniería de Software - UPC (Periodo 202610)*.
 **Equipo InnovaTech:**
 * Lopez Monroy, Rodrigo Alfredo (U202421866)
-* 
+* Luis Miranda, Diego Andres (U20241D185)
 * 
 * 
 * 
